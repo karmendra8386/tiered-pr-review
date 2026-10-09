@@ -27,7 +27,7 @@ The key idea: a cheap decision model gates all downstream spend. You stop paying
 ## Documents
 
 - [`docs/how-ai-models-review-pull-requests.pdf`](docs/how-ai-models-review-pull-requests.pdf) — one-page overview: how the models do the work.
-- [`docs/reference-architecture-github-actions.pdf`](docs/reference-architecture-github-actions.pdf) — full reference architecture for automating this with GitHub Actions.
+- [`docs/reference-architecture.md`](docs/reference-architecture.md) — full reference architecture for automating this with GitHub Actions.
 
 ## Roadmap
 
